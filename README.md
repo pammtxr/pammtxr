@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **enzymatic mechanisms of rhomboid proteases**.
 - 🌱 I’m currently learning **advanced Python language and SQL techniques, and cloud data warehousing**.
 - 💬 Ask me about **collage and rock climbing**.
-- 📫 How to reach me: [E-mail](pammellateixeira@gmail.com), [LinkedIn](https://www.linkedin.com/in/pammella-teixeira/), [Kaggle](https://kaggle.com/pammtxr), [Instagram](https://instagram.com/pammtxr)
+- 📫 How to reach me: [E-mail](pammellateixeira@gmail.com), [LinkedIn](https://www.linkedin.com/in/pammella-teixeira/), [Kaggle](https://kaggle.com/pammellateixeira), [Instagram](https://instagram.com/pammtxr)
 
 **Languages and Tools:**
 
